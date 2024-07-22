@@ -1,0 +1,2 @@
+module Admin::HandshakesHelper
+end
